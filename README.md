@@ -9,6 +9,11 @@
 
   
 ## How to install
+```commandline
+pip install https://github.com/nkeff/CTkGridLayout/releases/download/v.0.1.0/ctkgridlayout-0.1.0-py3-none-any.whl
+```
+or 
+
 1) copy `ctk_grid_layout.py` file in your project
 2) You must have [customtkinter](https://github.com/TomSchimansky/CustomTkinter) library installed
 
@@ -16,7 +21,7 @@
 ```python
 import customtkinter
 
-from ctk_grid_layout import CTkGridLayout
+from ctkgridlayout import CTkGridLayout
 
 if __name__ == "__main__":
     root = customtkinter.CTk()
