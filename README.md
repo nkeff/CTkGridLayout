@@ -4,7 +4,7 @@
 | BASE                                        | SCROLLABLE                                  |
 |---------------------------------------------|---------------------------------------------|
 | ![Screenshot](./examples/screenshots/2.png) | ![Screenshot](./examples/screenshots/3.png) |
-| `grid_view.py`                              | `scrollable_grid_view.py`                                         |
+| `examples/grid_view.py`                     | `examples/scrollable_grid_view.py`          |
 
 
   
