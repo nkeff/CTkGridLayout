@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ctkgridlayout"
+version = "0.1.0"
+description = "Simple grid view module for customtkinter library"
+authors = ["nkeff"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+customtkinter = "^5.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

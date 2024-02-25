@@ -1,6 +1,6 @@
 import customtkinter
 
-from ctk_grid_layout import CTkGridLayout
+from ctkgridlayout import CTkGridLayout
 
 if __name__ == "__main__":
     root = customtkinter.CTk()

@@ -2,7 +2,7 @@ import random
 
 import customtkinter
 
-from ctk_grid_layout import CTkGridLayout
+from ctkgridlayout import CTkGridLayout
 
 if __name__ == "__main__":
     def random_color() -> str: return f"#{''.join([random.choice('123456789ABCDEF') for _ in range(6)])}"
